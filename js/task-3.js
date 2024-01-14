@@ -13,6 +13,7 @@ console.log(
       friends: ['Briana Decker', 'Sharron Pace'],
       gender: 'female',
     },
+
     {
       name: 'Ross Vazquez',
       friends: ['Marilyn Mcintosh', 'Padilla Garrison', 'Naomi Buckner'],
